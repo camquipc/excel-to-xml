@@ -21,7 +21,7 @@ Convertir un xlsx a xml en Nodejs
 2. Navega al directorio del proyecto:
 
     ```bash
-    cd tu-repositorio
+    cd excel-to-xml
     ```
 
 3. Instala las dependencias:
@@ -40,7 +40,7 @@ Convertir un xlsx a xml en Nodejs
 const urlFile = './dataExcel/InformeDiario.xlsx';
 
 //CARPETA DE SALIDA DONDE SE GUARDARA EL XML RESULTANTE
-const urlFolderOutput = './dataExcel/InformeDiario.xlsx';
+const urlFolderOutput = './dataXml/InformeDiario.xml';
 
 
 //NOMBRE DEL XML RESULTANTE

@@ -1,0 +1,17 @@
+{
+  "name": "xml-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start":"node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "xlsx": "^0.18.5",
+    "xmlbuilder": "^15.1.1"
+  }
+}

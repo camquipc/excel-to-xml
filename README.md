@@ -40,7 +40,7 @@ Convertir un xlsx a xml en Nodejs
 const urlFile = './dataExcel/InformeDiario.xlsx';
 
 //CARPETA DE SALIDA DONDE SE GUARDARA EL XML RESULTANTE
-const urlFolderOutput = './dataXml/InformeDiario.xml';
+const urlFolderOutput = './dataXML/InformeDiario.xml';
 
 
 //NOMBRE DEL XML RESULTANTE
